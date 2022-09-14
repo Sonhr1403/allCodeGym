@@ -1,8 +1,12 @@
-public class de {
-    public static void main(String[] args) {
-        for(int i=3; i<=5; ){
-            System.out.println("Hello");
-            i++;
-        }
+class MyClass {
+    String method1() {
+        return "A";
     }
-}
+    void method() {
+    }
+//    double method() {
+//        return 1.5;
+//    }
+    method() {
+    }
+} 
